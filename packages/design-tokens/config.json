@@ -8,8 +8,7 @@
         "files": [{
           "destination": "global.css",
           "format": "css/variables"
-        }],
-        "actions": ["copy_assets"]
+        }]
       }
     }
-  }
+}
